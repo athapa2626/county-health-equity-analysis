@@ -1,4 +1,4 @@
-fips,HPSA Score,hpsa_score_norm,shortage_flag
+fips,hpsa_score,hpsa_score_norm,shortage_flag
 01001,13.0,0.52,0
 01003,13.67,0.55,0
 01005,11.82,0.47,0

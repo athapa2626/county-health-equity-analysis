@@ -12,7 +12,6 @@ API_KEY = os.getenv("CENSUS_API_KEY")
 if API_KEY is None:
     raise ValueError("CENSUS_API_KEY not found in .env file")
 
-# Create output folder if needed
 project_root = Path(__file__).resolve().parents[1]
 output_dir = project_root / "data" / "raw"
 output_dir.mkdir(parents=True, exist_ok=True)

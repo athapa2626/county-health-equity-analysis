@@ -1,3 +1,9 @@
 .venv
 .env
 data/raw/
+data/final/
+outputs/
+database/
+__pycache__/
+*.pyc
+notebook_outputs/

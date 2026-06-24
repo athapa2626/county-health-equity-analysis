@@ -34,8 +34,8 @@ df["fips"] = df["fips"].str.zfill(5)
 selected_measures = {
     "Diagnosed diabetes among adults": "diabetes",
     "Obesity among adults": "obesity",
-    "Current smoking among adults": "smoking",
-    "Mental health not good for >=14 days among adults": "mental_health",
+    "Current cigarette smoking among adults": "smoking",
+    "Frequent mental distress among adults": "mental_health",
     "No leisure-time physical activity among adults": "inactivity"
 }
 

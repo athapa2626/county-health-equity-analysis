@@ -1,4 +1,4 @@
-fips,YEAR,BENES_TOTAL_CNT,BENES_MA_CNT,MA_PRTCPTN_RATE,BENES_IP_CVRD_STAY_CNT,BENES_ER_VISITS_CNT,BENES_OP_CNT,BENES_SNF_CNT,BENES_HH_CNT,BENES_AMBLNC_CNT,preventable_burden_index
+fips,year,benes_total_cnt,benes_ma_cnt,ma_prtctn_rate,benes_ip_cvrd_stay_cnt,benes_er_visits_cnt,benes_op_cnt,benes_snf_cnt,benes_hh_cnt,benes_amblnc_cnt,preventable_burden_index
 01001,2014,10067.0,2978.0,0.33,1075.0,3752.0,4222.0,283.0,484.0,688.0,
 01001,2015,10420.0,3215.0,0.34,1155.0,4548.0,4409.0,331.0,530.0,863.0,
 01001,2016,10717.0,3393.0,0.35,1185.0,4217.0,4377.0,293.0,528.0,842.0,

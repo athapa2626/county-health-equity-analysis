@@ -1,0 +1,40 @@
+The Opportunity
+TSPi is seeking an early-career Data Analyst to support federal data and analytics projects. TSPi excels in meeting the needs of our partners (clients) by offering advanced technology solutions utilizing our industry-specific knowledge, iterative Agile approach, commitment and passion to serve, collaborative and fun team atmosphere, and pride in our work.
+The successful candidate will support data analysis, data cleaning, and analytical development efforts while working as part of small, collaborative project teams. Projects may include data-intensive federal government initiatives involving justice, healthcare, social science, and public health-related research and program evaluation activities. The selected candidate will assist in producing high-quality data products and analytical outputs while developing expertise in data management, visualization, statistical analysis, and federal data systems.
+The role offers an excellent opportunity for an individual interested in building a career in data analytics, working alongside experienced analysts, data scientists, and subject matter experts to solve complex challenges using data-driven approaches. This role is contingent upon award of the project to Abt Global and TSPi
+Core Responsibilities
+Apply foundational knowledge of data management and analytical techniques to support the analysis of federal datasets, including structured, unstructured, and qualitative/text-based data.
+Assist with data intake, cleaning, validation, transformation, storage, and analysis activities across the data lifecycle.
+Support the stewardship and analysis of government data, including justice, healthcare, social science, and public health-related datasets.
+Develop and maintain code, queries, and analytical workflows under the guidance of senior team members.
+Create reports, visualizations, dashboards, and analytical summaries to communicate findings and insights.
+Participate in data quality assurance and quality control (QA/QC) activities to ensure accuracy and reliability of analytical outputs.
+Collaborate with project teams to maintain data security, integrity, and availability standards.
+Contribute to technical documentation, analytical reports, and project deliverables.
+Work effectively within cross-functional teams and communicate findings to technical and non-technical stakeholders.
+Continuously develop technical skills and stay current with emerging analytics tools and methodologies.
+Required Qualifications
+Bachelor's degree in Data Analytics, Statistics, Informatics, Computer Science, Social Science, Economics, Public Health, or a related field with a focus on data and analysis.
+Ability to obtain and maintain public trust access for federal information systems and successfully complete a federal background check.
+Foundational knowledge of data analysis, statistics, and data management concepts.
+Exposure to one or more analytical tools or programming languages such as SQL, Python, R, or SAS through coursework, internships, research, or personal projects.
+Strong analytical thinking and problem-solving skills.
+Strong written and verbal communication skills.
+Ability to work effectively in a collaborative team environment.
+Demonstrated attention to detail and commitment to producing high-quality work.
+Position will require the ability to obtain Level 5 suitability screening (Public Trust Position – Positions) with SSA (including fingerprinting).
+We are not able to provide visa sponsorship for this opportunity.
+Preferred Qualifications
+Internship, academic, or research experience involving data analysis or data management.
+Experience working with relational databases and SQL.
+Familiarity with version control tools such as Git, Bitbucket, or SourceTree.
+Exposure to data visualization and reporting tools.
+Familiarity with data linkage, matching methodologies, or record reconciliation techniques.
+Experience working with federal, state, or local government datasets.
+Experience using secondary data sources such as Census data, geographic data, or other public datasets.
+Experience developing dashboards, workflow automations, or reporting solutions.
+Exposure to AI-assisted analytics tools, coding companions, or automation technologies.
+Statistics-focused coursework or experience analyzing and interpreting complex datasets.
+Education and Experience
+Bachelor's degree plus 0 years of relevant experience required.
+
